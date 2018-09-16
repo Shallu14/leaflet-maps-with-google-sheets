@@ -1,1 +1,1 @@
-var googleDocURL =  'https://docs.google.com/spreadsheets/d/1LRCZ3XNZBVYYPu5H4P8IMep2HD9cTIPjsxLSxjP_fW0/edit#gid=1436176787';
+var googleDocURL =  'https://docs.google.com/spreadsheets/d/1uAnVzJKT06mId9DAnyW7VhkwGwgYscRi1l8zSl2NIxc/edit#gid=0';
